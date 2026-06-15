@@ -18,4 +18,4 @@ Tips are processed entirely by Apple through In-App Purchase. Headroom never see
 You can unlink any account or erase all stored data at any time from Settings. Deleting the app also removes everything it stored on your device.
 
 ## Contact
-Questions about privacy? Email headroomsupprt@gmail.com.
+Questions about privacy? Email headroomsupport@gmail.com.
